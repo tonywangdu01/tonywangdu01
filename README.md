@@ -14,8 +14,8 @@ Built with **React + Node.js + PostgreSQL** → scaled to **100k+ users**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 
-<a href="https://link-to-project.com">
-  <img src="assets/saas.png" width="500" />
+<a href="#">
+  <img src="assets/blochchain.png" width="500" />
 </a>
 
 ---
@@ -27,8 +27,8 @@ Secure **real-time transactions** with **Express + MongoDB + Stripe**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=fff)
 
-<a href="https://link-to-project.com">
-  <img src="assets/payment.png" width="500" />
+<a href="#">
+  <img src="assets/meet-vora.png" width="500" />
 </a>
 
 ---
@@ -40,8 +40,8 @@ Polygon smart contracts built with **Solidity + Web3.js**
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=fff)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=fff)
 
-<a href="https://link-to-project.com">
-  <img src="assets/defi.png" width="500" />
+<a href="#">
+  <img src="assets/land_scale.png" width="500" />
 </a>
 
 ---
