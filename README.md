@@ -44,9 +44,6 @@
 
 ## 📊 GitHub Stats  
 
-![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonywangdu&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonywangdu&layout=compact&theme=radical)  
-
 ---
 
 ## 🏆 Achievements  
