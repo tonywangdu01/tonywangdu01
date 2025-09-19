@@ -27,10 +27,6 @@ Secure **real-time transactions** with **Express + MongoDB + Stripe**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=fff)
 
-<a href="#">
-  <img src="assets/meet-vora.png" width="500" />
-</a>
-
 ---
 
 ### 🔹 [DeFi dApp](#)  
@@ -39,10 +35,6 @@ Polygon smart contracts built with **Solidity + Web3.js**
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=fff)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=fff)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=fff)
-
-<a href="#">
-  <img src="assets/land_scale.png" width="500" />
-</a>
 
 ---
 
@@ -69,10 +61,3 @@ Polygon smart contracts built with **Solidity + Web3.js**
 
 ---
 
-## 📫 Connect with Me  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-
----
