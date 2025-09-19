@@ -14,10 +14,6 @@ Built with **React + Node.js + PostgreSQL** → scaled to **100k+ users**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 
-<a href="#">
-  <img src="assets/blockchain.png" width="500" />
-</a>
-
 ---
 
 ### 🔹 [Payment Gateway](#)  
